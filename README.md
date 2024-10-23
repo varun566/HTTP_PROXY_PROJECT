@@ -12,7 +12,7 @@ This project is an implementation of a simple HTTP proxy that forwards client re
   The proxy server starts on a user-defined port, and clients can connect via that port.
 
 - **Proxy Testing:** 
-  The project includes a `grading-test.py` script to test the proxy using various URLs, as well as instructions on how to verify correct behavior using `wget`.
+  The project includes a `test.py` script to test the proxy using various URLs, as well as instructions on how to verify correct behavior using `wget`.
 
 ## Files
 
