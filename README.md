@@ -1,4 +1,3 @@
-
 # HTTP Proxy Project
 
 This project is an implementation of a simple HTTP proxy that forwards client requests to a remote server and relays the server's response back to the client. The proxy handles HTTP GET requests and can be used for testing purposes.
@@ -110,4 +109,3 @@ Note that this proxy only supports **HTTP** connections, not **HTTPS**. Ensure t
 ## License
 
 This project is licensed under the MIT License.
-# HTTP_PROXY_PROJECT
